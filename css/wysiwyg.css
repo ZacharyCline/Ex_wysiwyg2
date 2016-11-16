@@ -1,0 +1,22 @@
+h1{
+	font-family: Times;
+	text-align: center;
+	text-shadow: 1px 1px yellow;
+}
+
+img{
+ max-width: 20%;
+
+}
+
+.yellow{
+	background-color: lightyellow;
+}
+
+.blue{
+	background-color: lightblue;
+}
+
+.dots {
+	border: 2px dotted black;
+}
